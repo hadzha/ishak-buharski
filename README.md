@@ -1,2 +1,2 @@
 # ishak-buharski
-tutorial for learning new things
+sandbox for learning new things
